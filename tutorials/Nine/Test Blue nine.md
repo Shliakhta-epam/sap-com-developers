@@ -5,13 +5,10 @@ tags: [tutorial>beginner, topic>api, tutorial>community, tutorial>license]
 primary_tag: topic>Java
 ---
 ### Time to Complete
-20 min
-
-
-
+20 min 
 
 [ACCORDION-BEGIN [Step 1: ](Add custom code)]
-
+### Steps 
 1. Open the new `OrdersService.java` file and replace the template with the following code:
 
     ```cds
