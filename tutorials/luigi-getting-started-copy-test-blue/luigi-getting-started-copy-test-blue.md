@@ -1,4 +1,5 @@
 ---
+title: Luigi getting started copy Test Blue
 parser: v2
 auto_validation: true
 time: 5
