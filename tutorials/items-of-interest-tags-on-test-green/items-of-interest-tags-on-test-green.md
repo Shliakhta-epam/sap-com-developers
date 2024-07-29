@@ -1,10 +1,10 @@
 ---
-title: Luigi getting started copy Test Blue
+title: items of interest tags on Test Green
 parser: v2
 auto_validation: true
 time: 5
-tags: [ tutorial>beginner, programming-tool>python]
-primary_tag: products>sap-business-technology-platform
+tags: [ software-product>sap-recommerce, software-product>sap-sales-cloud, tutorial>intermediate, software-product>sap-jam, software-product>sap-payment-engine]
+primary_tag: software-product>sapui5
 ---
 
 # Luigi getting started tb-copy
