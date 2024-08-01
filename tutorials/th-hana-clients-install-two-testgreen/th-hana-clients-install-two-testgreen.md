@@ -1,6 +1,6 @@
 ---
-title: HANA Clients install Test Blue 
-description: Learn about the multiple ways to install the SAP HANA client.
+title: th-hana-clients-install-two-testgreen
+description: HANA Clients install Test Blue. Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
 primary_tag: programming-tool>devops
