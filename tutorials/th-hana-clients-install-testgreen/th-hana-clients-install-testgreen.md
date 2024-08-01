@@ -1,7 +1,6 @@
 ---
-title: th-hana-clients-install-testgreen
-description:  Test Green Install the SAP HANA Client testgreennn - by Ana Shliakhta 
-Test Description text -> Learn about the multiple ways to install the SAP HANA client.
+title: th hana clients install testgreen
+description:  Test Green Install the SAP HANA Client testgreennn - by Ana Shliakhta. Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 15
 primary_tag: programming-tool>devops
