@@ -1,5 +1,5 @@
 ---
-title: Validation test form for Test Blue 
+title: Validation test form for Test Green 
 description: autotests description
 primary_tag: tutorial>mobile
 tags: [tutorial>hana_studio, tutorial>beginner]
