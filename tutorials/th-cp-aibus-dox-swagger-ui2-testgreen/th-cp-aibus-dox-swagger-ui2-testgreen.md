@@ -1,5 +1,5 @@
 ---
-title: Use Machine Learning to Extract Information from Documents with Swagger UI Test Blue 
+title: Use Machine Learning to Extract Information from Documents with Swagger UI Test Green TechEd 2024
 description: Get machine learning model predictions for the documents you upload to Document Information Extraction.
 auto_validation: true
 time: 15
