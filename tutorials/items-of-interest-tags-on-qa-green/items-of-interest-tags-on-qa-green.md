@@ -4,7 +4,7 @@ parser: v2
 auto_validation: true
 time: 5
 tags: [ software-product>sap-recommerce, software-product>sap-sales-cloud, tutorial>intermediate, software-product>sap-jam, software-product>sap-payment-engine]
-primary_tag: software-product-qa-ana>sapui5
+primary_tag: technical>mic_trial
 ---
 
 # Luigi getting started tb-copy
