@@ -3,7 +3,7 @@ title: SAPONEDX-66955_IMS - Add an endpoint to search for parent missions and gr
 parser: v2
 auto_validation: true
 time: 5
-tags: [ ana-product>ana-tag, software-product>sap-recommerce, software-product>sap-sales-cloud, tutorial>intermediate, software-product>sap-jam, software-product>sap-payment-engine]
+tags: [ software-product>sap-recommerce, software-product>sap-sales-cloud, tutorial>intermediate, software-product>sap-jam, software-product>sap-payment-engine]
 primary_tag: software-product>sap-recommerce
 ---
 
