@@ -1,5 +1,5 @@
 ---
-title: SAPONEDX-66955_IMS - Add an endpoint to search for parent missions and groups of tutorials
+title: SAPONEDX-66955_IMS UpdateAt - Add an endpoint to search for parent missions and groups of tutorials
 parser: v2
 auto_validation: true
 time: 5
